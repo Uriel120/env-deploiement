@@ -20,7 +20,7 @@ Ce dépôt a pour objectif d'automatiser le déploiement d'environnements Azure 
 - scripts/ — scripts d'aide (validation, build, déploiement local).
 - README.md — documentation (ce fichier).
 
-## Déploiement (exemples)
+## Déploiement 
 
 1. Se connecter et sélectionner la subscription :
      - az login
